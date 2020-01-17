@@ -1,4 +1,4 @@
-from appliance import Appliance
+from appliances import Appliance
 
 def DishWasher(Appliance):
 
